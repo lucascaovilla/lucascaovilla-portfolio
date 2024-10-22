@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/lucascaovilla/lucascaovilla-portfolio-front
+[submodule "core"]
+	path = core
+	url = https://github.com/lucascaovilla/lucascaovilla-portfolio-core
